@@ -1,0 +1,2 @@
+# Harry-Potter-Game
+The name of this game is "World of Harry Potter - Reveal &amp; Duel".  This game has 2 types of levels - Reveal and Duel.  In reveal, the player answers a set of questions and unlocks an object, whose name is to be guessed.  While in duel, the player fights against an opponent to win.  It is made as a single player game and hence, the player plays both for himself and his opponent.  This is a JAVA stand-alone application and is made using Jframes.
